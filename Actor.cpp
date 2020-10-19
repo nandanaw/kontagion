@@ -3,8 +3,6 @@
 
 using namespace std;
 
-// Students:  Add code to this file, Actor.h, StudentWorld.h, and StudentWorld.cpp
-
 /*     -----     A C T O R     -----     */
 
 Actor::Actor(StudentWorld* myWorld, int imageID, double startX, double startY, Direction dir, int depth)
